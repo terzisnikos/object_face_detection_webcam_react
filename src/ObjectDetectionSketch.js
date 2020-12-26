@@ -1,4 +1,4 @@
-import * as p5 from 'p5'
+import * as p5 from 'p5';
 import "p5/lib/addons/p5.dom";
 import * as cocoSsd from '@tensorflow-models/coco-ssd';
 import * as faceapi from 'face-api.js';
